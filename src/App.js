@@ -108,7 +108,7 @@ export default function App() {
             }}
           >
             <h2 style={{ fontSize: "24px", marginBottom: "10px" }}>
-              🎂 Happy Birthday!
+              🎂 Someone one year older today!
             </h2>
             <div style={{ position: "relative", marginBottom: "10px" }}>
               <div
@@ -178,7 +178,7 @@ export default function App() {
           >
             <div ref={fireworkRef} style={{ position: "absolute", inset: 0, zIndex: 0 }}></div>
             <div style={{ zIndex: 1 }}>
-              🌟 May your year be filled with love, joy, and amazing memories! 🌟
+              🌟 HAPPY BIRTHDAY to my Beloved Najwa, Thank You for all the warm of loves and care. May your year be filled with love, joy, and amazing memories! 🌟
             </div>
           </div>
         </div>
