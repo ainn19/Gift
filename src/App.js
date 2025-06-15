@@ -178,7 +178,12 @@ export default function App() {
           >
             <div ref={fireworkRef} style={{ position: "absolute", inset: 0, zIndex: 0 }}></div>
             <div style={{ zIndex: 1 }}>
-              🌟 HAPPY BIRTHDAY to my Beloved Najwa, Thank You for all the warm of loves and care. May your year be filled with love, joy, and amazing memories! 🌟
+              🌟 Happy Birthday to my beloved princess 🌟
+I'm so incredibly happy to be a part of your life. Watching you live joyfully reminds me to embrace happiness too. Thank you, Sha, for always being the light who reminds me that life is too beautiful to be spent in sadness.
+
+I’m wishing you all the best things this world has to offer may you soon land a great job with an amazing salary, and step into a beautiful married life filled with love and laughter.
+
+Love you always, Sha. Stay healthy and happy, kind soul. ❤️🌟
             </div>
           </div>
         </div>
